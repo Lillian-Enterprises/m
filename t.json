@@ -1,8 +1,9 @@
 {
-  "name": "Solana Sentinel",
-  "symbol": "SENT",
-  "description": "sentinel test launch",
-  "image": "https://raw.githubusercontent.com/github/explore/main/topics/solana/solana.png",
+  "name": "Your Name",
+  "symbol": "TICK",
+  "description": "...",
+  "image": "https://your-image.png",
   "showName": true,
-  "createdOn": "https://pump.fun"
+  "createdOn": "https://pump.fun",
+  "twitter": "https://x.com/..."
 }
