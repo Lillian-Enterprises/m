@@ -1,7 +1,7 @@
 {
-  "name": "Disposable",
-  "symbol": "DISP",
-  "description": "landing test",
+  "name": "Solana Sentinel",
+  "symbol": "SENT",
+  "description": "sentinel test launch",
   "image": "https://raw.githubusercontent.com/github/explore/main/topics/solana/solana.png",
   "showName": true,
   "createdOn": "https://pump.fun"
