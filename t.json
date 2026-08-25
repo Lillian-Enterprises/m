@@ -1,9 +1,8 @@
 {
-  "name": "Your Name",
-  "symbol": "TICK",
-  "description": "...",
-  "image": "https://your-image.png",
+  "name": "Memecoin",
+  "symbol": "MEM",
+  "description": "",
+  "image": "https://axiomtrading.sfo3.cdn.digitaloceanspaces.com/7X4231Ve3eAFwxztpWeue7WX2atxsWkmVVYHfaJRpump.webp",
   "showName": true,
-  "createdOn": "https://pump.fun",
-  "twitter": "https://x.com/..."
+  "createdOn": "https://pump.fun"
 }
